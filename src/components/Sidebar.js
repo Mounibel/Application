@@ -1,3 +1,4 @@
+import React from 'react';
 // styles & images
 import "./Sidebar.css";
 import DashboardIcon from "../assets/dashboard_icon.svg";

@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from "react";
 import Avatar from "../../components/Avatar";
 import { timestamp } from "../../firebase/config";
